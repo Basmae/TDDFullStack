@@ -1,0 +1,10 @@
+<div class="row">
+    <div class="col-md-4">
+        <app-add-or-update-home (bookCreated)="createOrUpdateBook($event)" [bookInfo]="currentBook"></app-add-or-update-home>
+    </div>
+  </div>
+<div class="row">  
+  <div class="col-md-4">
+    <app-book [booksData]="booksData"  (editClicked)="editClicked($event)" (newClicked)="newClicked()" (recordDeleted)="deleteClicked($event)"></app-book>
+</div>
+</div>

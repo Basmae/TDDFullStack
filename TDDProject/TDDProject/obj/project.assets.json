@@ -8445,11 +8445,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\basma.essam\\Desktop\\Learning\\TDDProject\\TDDProject\\TDDProject.csproj",
+      "projectUniqueName": "C:\\Users\\basma.essam\\Desktop\\Learning\\TDDProjectFullStack\\TDDProject\\TDDProject\\TDDProject.csproj",
       "projectName": "TDDProject",
-      "projectPath": "C:\\Users\\basma.essam\\Desktop\\Learning\\TDDProject\\TDDProject\\TDDProject.csproj",
+      "projectPath": "C:\\Users\\basma.essam\\Desktop\\Learning\\TDDProjectFullStack\\TDDProject\\TDDProject\\TDDProject.csproj",
       "packagesPath": "C:\\Users\\basma.essam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\basma.essam\\Desktop\\Learning\\TDDProject\\TDDProject\\obj\\",
+      "outputPath": "C:\\Users\\basma.essam\\Desktop\\Learning\\TDDProjectFullStack\\TDDProject\\TDDProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
